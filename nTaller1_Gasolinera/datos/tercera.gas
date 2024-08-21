@@ -1,0 +1,13 @@
+tipo:Corriente:14000:16000.0
+tipo:extra:15000:12000.0
+tipo:extraplus:16000:1200.0
+tipo:plus:13500:26000.0
+surtidor:Camila:Corriente:0.0:extra:0.0:extraplus:0.0:plus:0.0
+surtidor:Andres:Corriente:0.0:extra:0.0:extraplus:0.0:plus:0.0
+surtidor:Santiago:Corriente:0.0:extra:0.0:extraplus:0.0:plus:0.0
+surtidor:Camila:Corriente:0.0:extra:0.0:extraplus:0.0:plus:0.0
+empleado:Raul:0
+empleado:Andres:0
+empleado:Camila:0
+empleado:Brayan:0
+empleado:Santiago:0
